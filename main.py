@@ -13,4 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print("main1")
     print("main2")
+    print("branch1")
+    print("branch2")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
